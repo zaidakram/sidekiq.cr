@@ -11,7 +11,7 @@ crystal: 0.27.0
 dependencies:
   redis:
     github: stefanwille/crystal-redis
-    version: ~> 2.5
+    version: ~> 2.2
   pool:
     github: ysbaddaden/pool
     version: ~> 0.2.3
